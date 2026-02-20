@@ -3,7 +3,7 @@ import react from "@vitejs/plugin-react-swc";
 import path from "path";
 
 export default defineConfig({
-  base: "/lmm-ranking-golden-template/",
+  base: "/lmm-pure-himalayan-shilajit-ranking/",
   plugins: [react()],
   resolve: {
     alias: {
